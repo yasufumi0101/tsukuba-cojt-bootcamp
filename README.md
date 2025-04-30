@@ -15,7 +15,7 @@ HTML/CSS/JavaScript の基礎から React を使ったアプリ制作、GitHub �
 - pnpm add でパッケージを導入する
 - package.json / scripts の仕組みを体験する
 
-📂 フォルダ: /week0-environment-basics
+📂 フォルダ: [/week0-environment-basics](./week0-environment-basics)
 
 ### 🔹 Week 1: HTML/CSS/JS 体験
 

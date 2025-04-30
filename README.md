@@ -7,6 +7,16 @@ HTML/CSS/JavaScript の基礎から React を使ったアプリ制作、GitHub �
 
 ## 📅 カリキュラム構成
 
+### 🔹 Week 0: 開発環境の基礎と pnpm 体験
+
+- 開発環境とは何かを理解する
+- Node.js / pnpm の役割を知る
+- pnpm init でプロジェクトを開始する
+- pnpm add でパッケージを導入する
+- package.json / scripts の仕組みを体験する
+
+📂 フォルダ: /week0-environment-basics
+
 ### 🔹 Week 1: HTML/CSS/JS 体験
 
 - HTML の構造を理解する

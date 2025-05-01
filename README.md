@@ -10,7 +10,7 @@ HTML/CSS/JavaScript の基礎から React を使ったアプリ制作、GitHub �
 もしもこのテンプレートに更新があり、ご自身のリポジトリにも同様の更新を行い最新のコードを取得する際
 
 ```bash
-git remote add template <テンプレートリポジトリのURL>
+git remote add template https://github.com/tsukuba-cojt/web-dev-bootcamp-template
 git fetch template
 git merge --allow-unrelated-histories template/main
 ```

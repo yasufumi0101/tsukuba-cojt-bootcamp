@@ -5,6 +5,17 @@ HTML/CSS/JavaScript の基礎から React を使ったアプリ制作、GitHub �
 
 ---
 
+## テンプレートの更新
+
+もしもこのテンプレートに更新があり、ご自身のリポジトリにも同様の更新を行い最新のコードを取得する際
+
+```bash
+git remote add template <テンプレートリポジトリのURL>
+git fetch template
+git merge --allow-unrelated-histories template/main
+```
+を実行してください。
+
 ## 📅 カリキュラム構成
 
 ### 🔹 Week 0: 開発環境の基礎と pnpm 体験

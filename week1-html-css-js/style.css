@@ -1,12 +1,12 @@
 body {
   font-family: sans-serif;
-  background-color: #f0f8ff;
+  background-color: gray;
   text-align: center;
   padding: 2rem;
 }
 
 h1 {
-  color: #2e8b57;
+  color: green;
 }
 
 button {
